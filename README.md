@@ -28,5 +28,9 @@ Both applications should run on the same computer in localhost.
 
 Each player should have their own UUID.
 
+## How to run program
+First, start the server (ServerMain class), and type in maximum number of rounds.
+Then, start the clients (ClientMain class), and type in total number of players. 
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
