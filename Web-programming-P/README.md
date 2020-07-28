@@ -6,9 +6,9 @@ Final project for the Web programming course - a program that allows the reserva
 
 ## Project setup
 
-Firstly, setup and run backend java project (check the [README.md](https://github.com/nsreckovic/Web-programming/blob/master/Web-programming-P/README.md)). Then, setup and run the frontend (```npm install``` and then ```npm run serve```).
+Firstly, setup and run backend java project (check the [README.md](https://github.com/nsreckovic/Web-programming/blob/master/Web-programming-P/backend/README.md)). Then, setup and run the frontend (```npm install``` and then ```npm run serve```).
 
 ## Credentials
 
-**Admin** role: Username: Admin ; Password: Admin123</br>
-**Customer** role: Username: Customer, Password: Customer123
+**Admin** role: **Username:** Admin ; **Password:** Admin123</br>
+**Customer** role: **Username:** Customer, **Password:** Customer123
