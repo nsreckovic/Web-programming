@@ -2,7 +2,7 @@
 
 Final project for the Web programming course - a program that allows the reservation and administration of airline tickets.
 
-<img src="/images/example.png" alt="WebAir Example Image"/>
+<img src="/Web-programming-P/images/example.png" alt="WebAir Example Image"/>
 
 ## Project setup
 
