@@ -21,4 +21,4 @@ Make sure that ```Application context``` is just a ```/```.
 
 <img src="/Web-programming-P/images/backend-setup/4.png" alt="Step 4 Image"/></br>
 
-You're good to go!, Just click ```Apply``` and finish the setup process.
+You're all set! Just click ```Apply``` to finish the setup process.
